@@ -1,2 +1,1 @@
-http:/MariaGavrilina.githab.io/rsschool-cv/cv
-
+[https://github.com/MariaGavrilina]
