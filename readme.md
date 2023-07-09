@@ -1,2 +1,2 @@
-http:/GITHAB-MariaGavrilina.githab.io/rsschool-cv/cv
+http:/MariaGavrilina.githab.io/rsschool-cv/cv
 
