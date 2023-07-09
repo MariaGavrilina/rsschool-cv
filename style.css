@@ -14,3 +14,11 @@ body {
     border-radius: 100px; 
    } */
 }
+.footer {
+    background-color: rgb(103, 122, 163);
+    color: aliceblue;
+}
+.section {
+    background-color: rgb(103, 122, 163);
+    color: aliceblue;
+}
