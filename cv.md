@@ -1,23 +1,24 @@
-# Maria Gavrilina#
+# Maria Gavrilina
+## Contact
+- telefon 8 916 591 61 96
+- email maria.gavrilina@inbox.ru
+- telegram  8 916 591 61 96
+- WhatsApp   8 916 591 61 96
 
-## Contact## 
-telrfon 8 916 591 61 96
-email maria.gavrilina@inbox.ru
-telegram  8 916 591 61 96
-WhatsApp   8 916 591 61 96
+## About me
 
-##Abaut me##
+## Skills
+- Java
+- GitHub
+- HTML
+- VS code
+- SQL
 
-##Scills##
-Java
-GitHab
-HTML
-CD cod
-SQL
-Unfortunately, evrerything is in a half-fogot state
+## Education
+Moscow State Mining University  - (CAD) Computer Aided Design Engineer
 
-##Education##
-moscow state Mining University  speciality (CAD) Computer Aided Design
-
-## Lenguages##
-English intermediate (I continue to study), Ispanol-intermedio (sigo aprediendo),Rassian, Ukrainian
+## Languages 
+- English intermediate (I continue to study)
+- Ispanol-intermedio (sigo aprediendo)
+- Russian
+- Ukrainian
